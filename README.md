@@ -22,7 +22,7 @@ Create a sustainable longer farm that can benegit whales, minnows, dolphins and 
 Purpose
 
 Purpose
-We aim to answer th question: What would happen if the Community Led the way?
+We aim to answer th question: What would happen if the Community Leads the way?
 
 Strategic Fit
 Decentralized Finance (DeFi) has been orimarily a money and crypto game for high USD value "Whales." The Zuniswap community aims to be a Gateway protocol for more people interested in DeFi and yield farming.
