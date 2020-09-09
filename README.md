@@ -7,7 +7,7 @@ The roadmap repository is for communicating Zuniswap's roadmap. Existing issues 
 If you have not yet, please explore our community resources and current documentation:
 
  - [Introducing ZuniSwap](https://zuni.fi)
- - [Discord](about:blank)
+ - [Discord](https://discord.gg/N7xwph)
  - [Twitter](https://twitter.com/zuniswap)
 
 ## What is Zuniswap
