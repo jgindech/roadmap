@@ -64,9 +64,6 @@ Zuniswap has major releases on a monthly basis, and minor releases on a weekly b
 The following is a list of our current protocol areas:
 
 - **code:** Code experiences (Repositories, Pull Requests, Gists)
-- **planning:** Planning and tracking tools (Issues, Projects)
-- **code-to-cloud:** Code-to-cloud DevOps (Actions, Packages)
-- **collaboration:** Collaboration features (Pages, Wikis, Discussions)
 - **security & compliance:** Code security and compliance features
 - **audits:** Audits specific to Zuniswap
 - **other:** Other features
