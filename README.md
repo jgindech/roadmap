@@ -1,6 +1,6 @@
 # Zuniswap public roadmap
 
-In this repository, you can find the [official Zuniswap public protocol roadmap](about:blank). Our protocol roadmap is where you can learn about what the the community is working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [Zuniswap Community Forum](about:blank) or share your feedback via the [Share feedback](about:blank) page. 
+In this repository, you can find the [official Zuniswap public protocol roadmap](https://github.com/jgindech/roadmap/projects). Our protocol roadmap is where you can learn about what the the community is working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [Zuniswap Community Forum](about:blank) or share your feedback via the [Share feedback](about:blank) page. 
 
 The roadmap repository is for communicating Zuniswap's roadmap. Existing issues are currently in development as we get started. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of Zuniswap offerings protocols and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through this [Share feedback](about:blank) page.
 
